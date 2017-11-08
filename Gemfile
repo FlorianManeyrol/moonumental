@@ -9,7 +9,7 @@ gem 'puma'
 gem 'rails', '5.0.5'
 gem 'redis'
 gem 'webpacker', '~> 3.0'
-
+gem 'acts_as_votable'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
